@@ -1,0 +1,16 @@
+@charset "UTF-8";
+body {
+    background: skyblue;
+    color:purple;
+    text-align: right
+}
+h1{
+    color: orange;
+    text-align: left;
+}
+p{
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    border-bottom: 1px solid black;
+}
